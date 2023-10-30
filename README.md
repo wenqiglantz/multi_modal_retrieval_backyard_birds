@@ -6,7 +6,6 @@ Check out my Medium blog post for details. [Multimodal Retrieval with Text Embed
 
 
 * Step 1: Download backyard birds text and images
-* Step 2: Build text index for vector store using GPT embeddings
-* Step 3: Build image index for vector store using CLIP embeddings
-* Step 4: During query time, generate both text + CLIP query embeddings, retrieve both text + images
-* Step 5: Get multimodal retrieval results for sample queries
+* Step 2: Build text index for vector store and define text query engine
+* Step 3: Build image index for vector store using OpenAI CLIP embeddings
+* Step 4: Multimodal retrieval of both image and text for sample queries
