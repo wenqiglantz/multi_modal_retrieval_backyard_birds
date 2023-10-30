@@ -2,6 +2,8 @@
 
 A little app I created for my daughter who loves birds. :-)
 
+![multimodal-backyard-birds.gif](multimodal-backyard-birds.gif)
+
 Check out my Medium blog post for details. [Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds](https://levelup.gitconnected.com/multimodal-retrieval-with-text-embedding-and-clip-image-embedding-for-backyard-birds-599f19057a70?sk=e97fccefe5cd312fa082325e5820c34d).
 
 
